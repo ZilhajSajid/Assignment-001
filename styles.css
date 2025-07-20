@@ -184,5 +184,20 @@ nav h2{
 .focus-better img{
     border-radius: 48px;
 }
-    
+/* lets get in touch styles */
+.contact h1{
+    font-size: 97px;
+    font-weight: bold;
+}
+.btn-5{
+    background-color: #4E47FF;
+    border: none;
+    border-radius: 10px;
+    color: #FFFFFF;
+    width:  497px;
+    height: 62px;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 19px 201px;
+}
     
